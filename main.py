@@ -49,7 +49,7 @@ while 1:
                 print(now)
 
                 conn = http.client.HTTPSConnection("cdn-api.co-vin.in")
-                payload = "{\"mobile\":\"9431672144\"}"
+                payload = "{\"mobile\":\"94XXXXX\"}"
                 headers = {
                     'accept': 'application/json',
                     'Content-Type': 'application/json'
