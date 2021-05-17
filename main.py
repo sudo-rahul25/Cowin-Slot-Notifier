@@ -17,7 +17,7 @@ while 1:
     real_data = data.decode("utf-8")
     print(real_data)
 
-    # clock time print
+    # timestamp
     now = datetime.now()
     print(now)
 
@@ -57,7 +57,7 @@ while 1:
                 conn.request("POST", "/api/v2/auth/public/generateOTP", payload, headers)
                 res = conn.getresponse()
                 data = res.read()
-                # SMS metadata
+                #  metadata
                 print(data.decode("utf-8"))
                 print("*********************************************************")
                 sleep(10)
