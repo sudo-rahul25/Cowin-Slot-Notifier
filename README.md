@@ -1,8 +1,8 @@
 # Cowin-Slot-Notifier
 This repo contains scripts which notifies the user upon slot availability of vaccination. <br><br>
 **Tired of checking slots manually everyday ?** <br>
-Clone this repo and sit back, Relax. <br>
-Whenever any slot for your pincode will be there, it will notify you with SMS. <br>
+Clone this repo and sit back, Relax. <br><br>
+Whenever any slot for your pincode will be there, it will notify you. <br>
 Currently we are triggering SMS for age 18-44. <br>
 The code updates its file with latest vaccination slots every 10 seconds.<br>
 (Disclaimer: some file/content is private) <br>
