@@ -1,10 +1,10 @@
 # Cowin-Slot-Notifier
-This repo contains scripts which notifies the user upon slot availability of vaccination.
-Tired of checking slots manually everyday ? 
-Clone this repo and sit back, Relax. 
-Whenever any slot for your pincode will be there, it will notify you with SMS. 
-(Disclaimer: some file/content is private)
-
+This repo contains scripts which notifies the user upon slot availability of vaccination. <br>
+Tired of checking slots manually everyday ? <br>
+Clone this repo and sit back, Relax. <br>
+Whenever any slot for your pincode will be there, it will notify you with SMS. <br>
+(Disclaimer: some file/content is private) <br>
+<br>
 Run this code in PyCharm.
 
 
